@@ -5,3 +5,8 @@
 - Pode ser aprimorados caso seja da sua necessidade
 
 - Mas serve para você que procura um site completo de informações
+
+<p align="center">
+  <img width="470" src="splashtogithub.png">
+</p>
+
