@@ -7,6 +7,6 @@
 - Mas serve para você que procura um site completo de informações
 
 <p align="center">
-  <img width="470" src="site-noticias-cidades.png">
+  <img width="470" src="/site-noticias-cidades.png">
 </p>
 
